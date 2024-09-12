@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   ],
   nitro: {
     plugins: [
-      './server'
+      '~/server'
     ]
   },
 })
